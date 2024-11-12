@@ -1,1 +1,23 @@
+#After read more than 56 research paper about both principle in iris recognition and about classification algorithms. 
+#These are 3 article that impact directly to the project, you should read details to have the in-depth knowledgement: 
 
+#All free to read: 
+1. Enhancing smartphone security with human centric bimodal fallback authentication leveraging sensors
+Asma Ahmad Farhan, Amna Basharat, Nasser Allheeib & Summrina Kanwal 
+( https://www.nature.com/articles/s41598-024-74473-7 )   _   Nature .Scientific Reports volume 14, Article number: 24730 (2024) 
+                                            
+
+2. FPGA-Based CNN for Eye Detection in an Iris Recognition at a Distance System
+by Camilo A. Ruiz-BeltránORCID,Adrián Romero-GarcésORCID,Martín González-GarcíaORCID,Rebeca MarfilORCID andAntonio Bandera *ORCID 
+( https://www.mdpi.com/2079-9292/12/22/4713 ) 
+                                              ** Note * 
++  Efficient implementations using hardware like Field-Programmable Gate Arrays (FPGAs) are also discussed in recent studies. These allow CNNs to handle large
+computational loads effectively, facilitating high-speed, high-resolution iris image processing essential
+for real-world applications (e.g., high-resolution CMOS sensors for focused image capture)...
+
+3.Deep Learning-Based Iris Segmentation for Iris Recognition in Visible Light Environment
+by Muhammad ArsalanORCID,Hyung Gil Hong,Rizwan Ali Naqvi,Min Beom Lee,Min Cheol Kim,Dong Seop Kim,Chan Sik Kim andKang Ryoung Park 
+( https://www.mdpi.com/2073-8994/9/11/263 )
+                                              ** Note * 
++  For environments with noise and varying light, two-stage iris segmentation methods based on CNNs have been successful in extracting iris features for classification. This approach focuses on boundary
+identification and adaptation to intense settings with limited user cooperation, thus enhancing the robustness and reliability of iris authentication systems 
